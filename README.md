@@ -1,18 +1,14 @@
-<h1 align="center">Hi, 👋 I hope you're having a great day! ☀️</h1>
+## About Me  
 
-<p align="center">
-  My name is <strong>Richard M. Legaspi</strong> and I am from the Philippines.
-</p>
+My name is Richard M. Legaspi, and I am from the Philippines. I have built my career in the BPO industry, accumulating eight years of experience in customer service, technical support, leadership, and IT analysis. Over the years, I have honed my communication, analytical, problem-solving, and interpersonal skills, allowing me to adapt seamlessly to different roles and challenges.  
 
-###
-<h2 align="left">About me</h2>
 
 ### Contact Information  
 📧 Email: [legaspir852@gmail.com](mailto:legaspir852@gmail.com)  
 📱 Phone: +63 906023578  
 🔗 LinkedIn: [Richard Legaspi](https://www.linkedin.com/in/richard-legaspiproject)  
 
-###
+## Skills & Expertise 
 
 - ✅ **Customer Service & Technical Support Specialist** with **6+ years** of experience  
 - 🖥️ **18 months of IT Service Desk experience**, providing technical support and troubleshooting  
