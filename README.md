@@ -49,15 +49,14 @@
 -  🔑 **LogMeIn**   
 -  🖥️ **AnyDesk** 
 -  🎥 **Zoom** 
--  🏢 **Microsoft Teams**  
+-  🏢 **Microsoft Teams**
+-  
 ## 💼 Work History  
 
 ### 🏢 HCL Tech (Xerox U.S.A)  
 **Position:** I.T Analyst  
 📅 **Duration:** January 6, 2025 - June 6, 2025  
 🛠️ **Work Type:** Onsite / Project-Based  
-
-## 💼 Work History  
 
 ### 🏢 HCL Tech (Xerox U.S.A)  
 **Position:** IT Analyst  
